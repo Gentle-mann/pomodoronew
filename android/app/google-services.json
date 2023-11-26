@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "547877134146",
+    "project_id": "todolistnew-d6632",
+    "storage_bucket": "todolistnew-d6632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547877134146:android:d5a53c022ecd6d53d732db",
+        "android_client_info": {
+          "package_name": "com.example.pomodoro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGFF5v0TGkK5sGhqN6EOYoyUEWiO3D_nE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
